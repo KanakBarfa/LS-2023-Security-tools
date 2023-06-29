@@ -35,8 +35,8 @@ This week's content also includes an introduction to shell scripting. Shell scri
 4. Stdin, Stderr, Stdout: [Files - bi0s wiki](https://wiki.bi0s.in/basics/files/)
 
 ### Our Introductory Sessions : 
-[CSec - Introduction to Linux - MSTeams Recording](https://iitbacin.sharepoint.com/sites/CSecClub/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x012000AE7DBDF52AA7E4479C2DEFD6FD00A9F1&id=%2Fsites%2FCSecClub%2FShared%20Documents%2FGeneral%2FRecordings%2FIntroductory%20Workshop%20%5F1%20%5F%20Introduction%20to%20Linux%2D20211229%5F180735%2DMeeting%20Recording%2Emp4&parent=%2Fsites%2FCSecClub%2FShared%20Documents%2FGeneral%2FRecordings) |
-[CSec - Introduction to Linux - PPT](https://iitbacin.sharepoint.com/sites/CSecClub/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x012000AE7DBDF52AA7E4479C2DEFD6FD00A9F1&id=%2Fsites%2FCSecClub%2FShared%20Documents%2FGeneral%2FLinux%5FIntro%5FSession%5F29%2D12%2D21)
+[CSeC - Introduction to Linux - MSTeams Recording](https://iitbacin.sharepoint.com/sites/CSecClub/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x012000AE7DBDF52AA7E4479C2DEFD6FD00A9F1&id=%2Fsites%2FCSecClub%2FShared%20Documents%2FGeneral%2FRecordings%2FIntroductory%20Workshop%20%5F1%20%5F%20Introduction%20to%20Linux%2D20211229%5F180735%2DMeeting%20Recording%2Emp4&parent=%2Fsites%2FCSecClub%2FShared%20Documents%2FGeneral%2FRecordings) |
+[CSeC - Introduction to Linux - PPT](https://iitbacin.sharepoint.com/sites/CSecClub/Shared%20Documents/Forms/AllItems.aspx?FolderCTID=0x012000AE7DBDF52AA7E4479C2DEFD6FD00A9F1&id=%2Fsites%2FCSecClub%2FShared%20Documents%2FGeneral%2FLinux%5FIntro%5FSession%5F29%2D12%2D21)
 
 ### CTF challenge walkthroughs : 
 1. Indroduction to Linux and CTFs [Capture The Flag - picoCTF 2021](https://www.youtube.com/watch?v=P07NH5F-t3s) (22 mins)
