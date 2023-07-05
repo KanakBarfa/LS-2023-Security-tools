@@ -13,4 +13,4 @@ In this repo inside the `challenge-3` directory we have already created `level1.
 Write all the `commands` that you have used to solve for each challenge (one on each line)</br>
 Also while submission the first line of each text file should be the flag you obtained.
 
-Flag format: YoS{...}
+Flag format: flag{...}
