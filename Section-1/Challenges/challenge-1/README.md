@@ -12,4 +12,4 @@ In this repo inside the `challenge-1` directory we have already created `script.
 Modify `script.sh` and write your script into it. </br>
 Also while submission the first line of your `script.sh` should be a comment with the flag you obtained.
 
-Flag format: YoS{...}
+Flag format: flag{...}
