@@ -1,8 +1,4 @@
   # Challenge 1 (Zip Mania) Bash
-```
-challenge file upadated on Feb 6 at 20:40
-```
-hmmm ... the 1st challenge for YoS.
 
 This challenge is supposed to get you started with bash scripting </br>
 
@@ -14,4 +10,6 @@ This challenge is supposed to get you started with bash scripting </br>
 ## Submission instruction
 In this repo inside the `challenge-1` directory we have already created `script.sh` file. </br>
 Modify `script.sh` and write your script into it. </br>
-Also while submission the first line of your `scipt.sh` should be a comment with the flag you obtained
+Also while submission the first line of your `script.sh` should be a comment with the flag you obtained.
+
+Flag format: YoS{...}
